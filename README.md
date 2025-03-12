@@ -6,4 +6,4 @@ My dearest passions (right now at least) are within the realm of filmmaking tech
 
 It's slow progress, but I tend to learn something new everyday that pushes me to take time to learn the things I'm loving and to love the things I'm learning. 
 
-Thanks for stopping by! And feel free to contact me with any questions or "hello"s at asawicke@gmail.com. Also, check out my school-related repos @(asawicke)[https://github.com/asawicke]
+Thanks for stopping by! And feel free to contact me with any questions or "hello"s at asawicke@gmail.com. Also, check out my school-related repos @[asawicke](https://github.com/asawicke)
